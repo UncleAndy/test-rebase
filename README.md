@@ -1,5 +1,5 @@
 # test-rebase
 
 line 1
-line 8
+line 7
 line 3
